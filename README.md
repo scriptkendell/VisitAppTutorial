@@ -1,17 +1,6 @@
-Ec2 instance can be found at ec2-3-12-111-188.us-east-2.compute.amazonaws.com:5000
+A additional part to Tutorial1, showing the ability to use a mongo database that counts the amount of webpage visitors 
 
-Avaliable routes :
 
-/add
-/subtract
-/multiply 
-/divide
+To access, use ec2-18-223-159-160.us-east-2.compute.amazonaws.com/hello
 
-Example of POST json:
 
-{
-    "x":10,
-    "y":5
-}
-
-Send this to ec2-3-12-111-188.us-east-2.compute.amazonaws.com:5000/add
